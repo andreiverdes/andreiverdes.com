@@ -63,16 +63,16 @@ a:hover{
 	font-size:15px;
 	color:#616161;
 }
-#about_card{
+#experience_card{
 	position:relative;
 	padding:15px 32px 8px 32px;
 	margin-top:22px;
 }
-#about_card>.tab{
+#experience_card>.tab{
 	margin-top:10px;
 	margin-bottom:10px;
 }
-#about_card>.tab>.title{
+#experience_card>.tab>.title{
 	font-size:16px;
 	color:#2196F3; /*Change title and title icon color (About Card)*/
 }
@@ -80,23 +80,128 @@ a:hover{
 	position:relative;
 	left:-10px;
 }
-#about_card>.tab>.content{
+#experience_card>.tab>.content{
 	padding:5px 20px 5px 20px;
 	position:relative;
 }
-#about_card .element{
+#experience_card .element{
 	margin-bottom:5px;
 	margin-top:5px;
 }
-#about_card .element .name{
+#experience_card .element .name{
 	color:#212121;
 	font-size:15px;
 	margin-bottom:3px;
 }
-#about_card .element .info{
+#experience_card .element .info{
 	color:#616161;
 	font-size:14px;
 }
+#education_card{
+	position:relative;
+	padding:15px 32px 8px 32px;
+	margin-top:22px;
+}
+#education_card>.tab{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#education_card>.tab>.title{
+	font-size:16px;
+	color:#2196F3; /*Change title and title icon color (About Card)*/
+}
+.title i{
+	position:relative;
+	left:-10px;
+}
+#education_card>.tab>.content{
+	padding:5px 20px 5px 20px;
+	position:relative;
+}
+#education_card .element{
+	margin-bottom:5px;
+	margin-top:5px;
+}
+#education_card .element .name{
+	color:#212121;
+	font-size:15px;
+	margin-bottom:3px;
+}
+#education_card .element .info{
+	color:#616161;
+	font-size:14px;
+}
+
+#communities_card{
+	position:relative;
+	padding:15px 32px 8px 32px;
+	margin-top:22px;
+}
+#communities_card>.tab{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#communities_card>.tab>.title{
+	font-size:16px;
+	color:#2196F3; /*Change title and title icon color (About Card)*/
+}
+.title i{
+	position:relative;
+	left:-10px;
+}
+#communities_card>.tab>.content{
+	padding:5px 20px 5px 20px;
+	position:relative;
+}
+#communities_card .element{
+	margin-bottom:5px;
+	margin-top:5px;
+}
+#communities_card .element .name{
+	color:#212121;
+	font-size:15px;
+	margin-bottom:3px;
+}
+#communities_card .element .info{
+	color:#616161;
+	font-size:14px;
+}
+
+#work_card{
+	position:relative;
+	padding:15px 32px 8px 32px;
+	margin-top:22px;
+}
+#work_card>.tab{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#work_card>.tab>.title{
+	font-size:16px;
+	color:#2196F3; /*Change title and title icon color (About Card)*/
+}
+.title i{
+	position:relative;
+	left:-10px;
+}
+#work_card>.tab>.content{
+	padding:5px 20px 5px 20px;
+	position:relative;
+}
+#work_card .element{
+	margin-bottom:5px;
+	margin-top:5px;
+}
+#work_card .element .name{
+	color:#212121;
+	font-size:15px;
+	margin-bottom:3px;
+}
+#work_card .element .info{
+	color:#616161;
+	font-size:14px;
+}
+
 hr{
 	width:60%;
 	color: #E0E0E0;
